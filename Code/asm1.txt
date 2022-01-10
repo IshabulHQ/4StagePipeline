@@ -1,0 +1,11 @@
+li 3 0b0000000000000001 4
+r4ial 2 4 5 6
+r4iah 2 4 5 6
+r4isl 2 4 5 6
+r4ish 2 4 5 6
+r4lal 2 4 5 6
+r4lah 2 4 5 6
+r4lsl 2 4 5 6
+r4lsh 2 4 5 6
+nop 0 0 0
+xor 1 2 3
